@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BINChecker</string>
+    <string name="load_data">Load Data</string>
+    <string name="bin">BIN</string>
+</resources>
